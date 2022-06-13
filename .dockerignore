@@ -1,0 +1,7 @@
+**/__pycache__
+venv/
+Dockerfile
+.dockerignore
+environment.yaml
+README.md
+requirements.in
